@@ -1,0 +1,214 @@
+{
+  "data": {
+    "wcProducts": {
+      "id": "0f774caf-f032-5c3e-a901-04fcce7adb05",
+      "wcId": 124,
+      "name": "Devias Kit Pro - Client and Admin Dashboard",
+      "slug": "devias-kit-pro",
+      "reviews_allowed": true,
+      "description": "<p>This is a professional Next.js and Vite React template that comes with plenty of ready-to-use Material UI components. The components have been developed with one common goal in mind: to help you build faster and more beautiful applications. Each component is fully customizable, responsive, and easy to integrate.</p>\n<p>For technical questions, you can live chat with developers on the official <a href=\"https://discord.gg/sCkV8W973k\" target=\"_blank\" rel=\"noopener\">Devias Discord server</a>.</p>\n<table style=\"font-size: 16px; color: #000000; border-collapse: collapse; width: 100%; max-width: 600px; border: 1px dashed #ced4d9;\">\n<tbody>\n<tr style=\"height: 45px;\">\n<td style=\"height: 45px; vertical-align: middle; width: 320px; padding: 6px; background-color: #ecf0f1; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">📦<strong>Package</strong></span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; background-color: #ecf0f1; text-align: center; border: 1px solid #ced4d9;\"><strong><span style=\"font-size: 15px;\">Standard</span></strong></td>\n<td style=\"height: 45px; vertical-align: middle; width: 60px; padding: 6px; background-color: #ecf0f1; text-align: center; border: 1px solid #ced4d9;\"><strong><span style=\"font-size: 15px;\">Plus</span></strong></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; background-color: #ecf0f1; text-align: center; border: 1px solid #ced4d9;\"><strong><span style=\"font-size: 15px;\">Extended</span></strong></td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"height: 45px; vertical-align: middle; width: 320px; padding: 6px; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">Next.js (JavaScript)</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 60px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"height: 45px; vertical-align: middle; width: 320px; padding: 6px; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">Vite (JavaScript)</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 60px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"height: 45px; vertical-align: middle; width: 320px; padding: 6px; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">Next.js (TypeScript)</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">⛔️</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 60px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"height: 45px; vertical-align: middle; width: 320px; padding: 6px; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">Vite (TypeScript)</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">⛔️</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 60px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"height: 45px; vertical-align: middle; width: 320px; padding: 6px; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">Next.js Starter Project</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅️</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 60px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"height: 45px; vertical-align: middle; width: 320px; padding: 6px; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">Vite Starter Project</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅️</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 60px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"height: 45px; vertical-align: middle; width: 320px; padding: 6px; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">Design Figma file <a href=\"https://www.figma.com/file/IlxzeMWU3ONoVXncyBsFkT/Devias-Kit-Pro-UI-7.0.0-(preview)?type=design&amp; node-id=11276%3A170584&amp; mode=design&amp; t=XvKkUGc9iZxhJyCC-1\" target=\"_blank\" rel=\"noopener\">preview</a></span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">⛔️</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 60px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n</tr>\n<tr style=\"height: 45px;\">\n<td><span style=\"font-size: 15px;\">⚡️ License</span></td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"height: 45px; vertical-align: middle; width: 320px; padding: 6px; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">Use in a free end product </span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 60px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n<td style=\"height: 45px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n</tr>\n<tr style=\"height: 50px;\">\n<td style=\"height: 50px; vertical-align: middle; width: 320px; padding: 6px; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">Use in an end product that is \"sold\" (one or multiple paying End Users).</span></td>\n<td style=\"height: 50px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">⛔️</span></td>\n<td style=\"height: 50px; vertical-align: middle; width: 60px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">⛔️</span></td>\n<td style=\"height: 50px; vertical-align: middle; width: 80px; padding: 6px; text-align: center; border: 1px solid #ced4d9;\"><span style=\"font-size: 15px;\">✅</span></td>\n</tr>\n</tbody>\n</table>\n<p>If you are looking for <strong>Create-React-App</strong>, see this quick guide on <a href=\"https://material-kit-pro-react-docs.devias.io/create-react-app-version\" target=\"_blank\" rel=\"noopener\">how to migrate</a>.</p>\n<h2>Devias Kit Pro - Next.js v14.1 | Vite</h2>\n<ul>\n<li><strong>NEW</strong> - Next.js v14.1 App Router version</li>\n<li><strong>NEW</strong> - Vite version</li>\n<li><strong>NEW</strong> - Starter versions</li>\n<li><strong>NEW</strong> - Screens (Academy, Crypto, File Manager, Logistics, etc). See more on our <a href=\"https://material-kit-pro-react-docs.devias.io/changelog\" target=\"_blank\" rel=\"noopener\">changelog</a></li>\n<li><strong>NEW</strong> - Design system aesthetics</li>\n<li><strong>60+</strong>Page examples</li>\n<li><strong>85</strong> Individual components</li>\n<li>Custom authentication</li>\n<li>AWS Cognito/Amplify authentication</li>\n<li>Auth0 authentication</li>\n<li>Firebase authentication</li>\n<li>Supabase authentication</li>\n<li>Forms built with React Hook Form</li>\n<li>Schemas validated with Zod</li>\n<li>Charts built with Recharts</li>\n<li>Drag and Drop with Dnd Kit</li>\n<li>RTL support</li>\n<li>i18n support</li>\n<li>Mapbox integrated</li>\n<li>Animations created with Framer Motion</li>\n<li>ProseMirror text editor with TipTap</li>\n<li>Sonner toaster</li>\n<li>Phosphor icons</li>\n<li>Built with React Hooks API</li>\n<li>React Context API as State Manager</li>\n<li>Fully responsive</li>\n<li>Ready-to-deploy folder structure</li>\n<li>Complete User Flows</li>\n</ul>\n<h2>Previous 6.4.2 version deployments</h2>\n<ul>\n<li><a href=\"https://material-kit-pro-react-ffyceawoo-devias.vercel.app\" target=\"_blank\" rel=\"noopener\">Preview</a></li>\n<li><a href=\"https://material-kit-pro-react-docs-bslicwx3m-devias.vercel.app\" target=\"_blank\" rel=\"noopener\">Documentation</a></li>\n</ul>\n<h2>Concepts</h2>\n<ul>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard\" target=\"_blank\" rel=\"noopener\">Overview Dashboard</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/analytics\" target=\"_blank\" rel=\"noopener\">Analytics Dashboard</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/e-commerce\" target=\"_blank\" rel=\"noopener\">E-Commerce Dashboard</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/crypto\" target=\"_blank\" rel=\"noopener\">Crypto Dashboard</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/settings/account\" target=\"_blank\" rel=\"noopener\">Account Settings</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/settings/billing\" target=\"_blank\" rel=\"noopener\">Billing Settings</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/customers\" target=\"_blank\" rel=\"noopener\">Customer List</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/customers/create\" target=\"_blank\" rel=\"noopener\">Customer Create</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/customers/1\" target=\"_blank\" rel=\"noopener\">Customer Details</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/products\" target=\"_blank\" rel=\"noopener\">Product List</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/products/create\" target=\"_blank\" rel=\"noopener\">Product Create</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/products/1\" target=\"_blank\" rel=\"noopener\">Product Details</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/orders\" target=\"_blank\" rel=\"noopener\">Order List</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/orders/create\" target=\"_blank\" rel=\"noopener\">Order Create</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/orders/1\" target=\"_blank\" rel=\"noopener\">Order Details</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/invoices\" target=\"_blank\" rel=\"noopener\">Invoice List</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/invoices/create\" target=\"_blank\" rel=\"noopener\">Invoice Create</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/invoices/1\" target=\"_blank\" rel=\"noopener\">Invoice Details</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/logistics\" target=\"_blank\" rel=\"noopener\">Logistics Metrics</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/logistics/fleet\" target=\"_blank\" rel=\"noopener\">Logistics Fleet</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/academy\" target=\"_blank\" rel=\"noopener\">Academy Browse</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/academy/courses/1\" target=\"_blank\" rel=\"noopener\">Academy Course</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/jobs\" target=\"_blank\" rel=\"noopener\">Job Browse</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/jobs/create\" target=\"_blank\" rel=\"noopener\">Job Create</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/jobs/companies/1\" target=\"_blank\" rel=\"noopener\">Job Company</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/social/profile\" target=\"_blank\" rel=\"noopener\">Social Profile</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/social/feed\" target=\"_blank\" rel=\"noopener\">Social Feed</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/blog\" target=\"_blank\" rel=\"noopener\">Blog - Post List</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/blog/1\" target=\"_blank\" rel=\"noopener\">Blog - Post Details</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/blog/create\" target=\"_blank\" rel=\"noopener\">Blog - Post Create</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/file-storage\" target=\"_blank\" rel=\"noopener\">File Storage</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/mail/inbox\" target=\"_blank\" rel=\"noopener\">Mail</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/chat\" target=\"_blank\" rel=\"noopener\">Chat</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/calendar\" target=\"_blank\" rel=\"noopener\">Calendar</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/dashboard/tasks\" target=\"_blank\" rel=\"noopener\">Tasks</a></li>\n</ul>\n<h2>Pages</h2>\n<ul>\n<li><a href=\"https://material-kit-pro-react.devias.io/pricing\" target=\"_blank\" rel=\"noopener\">Pricing</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/checkout\" target=\"_blank\" rel=\"noopener\">Checkout</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/contact\" target=\"_blank\" rel=\"noopener\">Contact</a></li>\n</ul>\n<h2>Website</h2>\n<ul>\n<li><a href=\"https://material-kit-pro-react.devias.io\" target=\"_blank\" rel=\"noopener\">Landing</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/components\" target=\"_blank\" rel=\"noopener\">Components</a></li>\n</ul>\n<h2>Components</h2>\n<ul>\n<li><a href=\"https://material-kit-pro-react.devias.io/components/detail-lists\" target=\"_blank\" rel=\"noopener\">Detail Lists</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/components/tables\" target=\"_blank\" rel=\"noopener\">Tables</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/components/quick-stats\" target=\"_blank\" rel=\"noopener\">Quick Stats</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/components/grouped-lists\" target=\"_blank\" rel=\"noopener\">Grouped Lists</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/components/grid-lists\" target=\"_blank\" rel=\"noopener\">Grid Lists</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/components/forms\" target=\"_blank\" rel=\"noopener\">Forms</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/components/modals\" target=\"_blank\" rel=\"noopener\">Modals</a></li>\n<li><a href=\"https://material-kit-pro-react.devias.io/components/charts\" target=\"_blank\" rel=\"noopener\">Charts</a></li>\n</ul>\n<h2>Designers</h2>\n<p><strong>Newly redesigned</strong> screens built with the latest <strong>Figma</strong>:</p>\n<ul>\n<li><a href=\"https://www.figma.com/file/IlxzeMWU3ONoVXncyBsFkT/Devias-Kit-Pro-UI-7.0.0-(preview)?type=design&amp; node-id=11276%3A170584&amp; mode=design&amp; t=XvKkUGc9iZxhJyCC-1\" target=\"_blank\" rel=\"noopener\">Figma file preview</a></li>\n</ul>\n<h2>Documentation</h2>\n<p>Follow this link to find the <a href=\"https://material-kit-pro-react-docs.devias.io\" target=\"_blank\" rel=\"noopener\">documentation.</a></p>\n<h2>Built with</h2>\n<p>You can <a href=\"https://material-kit-pro-react-docs.devias.io/dependencies\" target=\"_blank\" rel=\"noopener\">check the dependencies.</a></p>\n",
+      "rating_count": 109,
+      "average_rating": "4.75",
+      "total_sales": 8281,
+      "meta_data": [
+        {
+          "key": "_per_product_admin_commission_type",
+          "value": "percentage"
+        },
+        {
+          "key": "_per_product_admin_commission",
+          "value": ""
+        },
+        {
+          "key": "_lot_discount_quantity",
+          "value": "0"
+        },
+        {
+          "key": "_lot_discount_amount",
+          "value": "0"
+        },
+        {
+          "key": "_is_lot_discount",
+          "value": "no"
+        },
+        {
+          "key": "_disable_shipping",
+          "value": "no"
+        },
+        {
+          "key": "_overwrite_shipping",
+          "value": "no"
+        },
+        {
+          "key": "_additional_price",
+          "value": ""
+        },
+        {
+          "key": "_additional_qty",
+          "value": ""
+        },
+        {
+          "key": "_dps_processing_time",
+          "value": ""
+        },
+        {
+          "key": "_create_variation",
+          "value": "yes"
+        },
+        {
+          "key": "_vies_product_is_service",
+          "value": "no"
+        },
+        {
+          "key": "pageview",
+          "value": "871"
+        },
+        {
+          "key": "wccaf_version",
+          "value": "7.0.0"
+        },
+        {
+          "key": "wccaf_changelog",
+          "value": "## v7.0.0\r\n\r\n###### Feb 26, 2024\r\n\r\n- Add `Supabase` auth support\r\n- Improve Next.js `RSC` support\r\n- Refactor and simplify project code\r\n- Reimplement existing auth providers\r\n- Remove `lodash`\r\n- Remove `prop-types`\r\n- Replace `apexcharts` with `recharts`\r\n- Replace `date-fns` with `dayjs`\r\n- Replace `formik` with `react-hook-form`\r\n- Replace `numeral` with native `Intl.NumberFormat`\r\n- Replace `react-beatuiful-dnd` with `dnd-kit`\r\n- Replace `react-hot-toast` with `sonner`\r\n- Replace `react-quill` with `tiptap`\r\n- Replace `react-slick` with `embla-carousel`\r\n- Replace `redux` with `React Context`\r\n- Replace `untitled-ui` icons with `phosphor` icons\r\n- Replace `yup` with `zod`\r\n- Replace Next.js `pages` with `app router`\r\n- Update dependencies\r\n- Update design\r\n- Update eslint and prettier config\r\n\r\n## v6.4.2\r\n \r\n###### Jul 6, 2023\r\n\r\n- Change external style import strategy\r\n- Fix `Next.js` app router root layout metadata\r\n- Fix `Next.js` app router `Cypress` integration issue\r\n- Fix `Vite` `Draft.js` import issue\r\n- Update dependencies\r\n\r\n## v6.4.1\r\n\r\n###### Jul 6, 2023\r\n\r\n- Add `prettier` dependecy and format code\r\n- Fix outlined text field style\r\n- Fix `Next.js` app router theme change\r\n- Fix `Next.js` app router nprogress\r\n- Update dependencies\r\n\r\n## v6.4.0\r\n\r\n###### May 16, 2023\r\n\r\n- Migrate `Create-React-App` (CRA) to `Vite`\r\n- Update dependencies\r\n\r\n## v6.3.0\r\n\r\n###### May 10, 2023\r\n\r\n- Add `Next.js` app router version\r\n- Update dependencies\r\n- Replace `@mui/material` named imports with specific\r\n\r\n## v6.2.0\r\n\r\n###### May 5, 2023\r\n\r\n- Add `Create-React-App` (CRA) TypeScript starter project\r\n- Add `Next.js` TypeScript starter project\r\n- Update dependencies\r\n- Update Figma (Sketch no update)\r\n\r\n## v6.1.0\r\n\r\n###### Feb 21, 2023\r\n\r\n- Add `Create-React-App` (CRA) version\r\n- Move docs app out\r\n\r\n## v6.0.1\r\n\r\n###### Feb 16, 2023\r\n\r\n- Update dependencies\r\n\r\n## v6.0.0\r\n\r\n###### Jan 12, 2023\r\n\r\n- Add support for `Next.js 13`\r\n- Add `Academy` pages\r\n- Add `Crypto` pages\r\n- Add `Fie Manager` pages\r\n- Add `Logistics` pages\r\n- Add `Mapbox GL` sdk\r\n- Add multiple auth page layouts\r\n- Add multiple navigation color schemes\r\n- Refactor and simplify project code\r\n- Replace `Hero icons` with `Untitled-UI icons`\r\n- Update Api fetch logic\r\n- Update `Auth0` login flow\r\n- Update `Dashboard Overview` page\r\n- Update `design system` aesthetics\r\n- Update app settings implementation and available options\r\n- Update dependencies\r\n- Update layouts\r\n- Update project folder structure\r\n- Update Figma (Sketch no update)\r\n\r\n## v5.3.0\r\n###### Sep 15, 2022\r\n\r\n- Update dependencies\r\n\r\n## v5.2.0\r\n###### May 23, 2022\r\n\r\n- Update dependencies\r\n\r\n## v5.1.0\r\n###### Feb 09, 2022\r\n\r\n- Enable TypeScript Strict mode\r\n- Update Firebase to v9\r\n- Replace Auth0 Popup with Redirect\r\n- Fix dependencies security issues\r\n- Update types and interfaces\r\n- Update dependencies\r\n- Update Sketch files to v5\r\n\r\n## v5.0.2\r\n###### Nov 04, 2021\r\n\r\n- Reduce compile time\r\n- Update layout strategy\r\n\r\n## v5.0.1\r\n###### Nov 03, 2021\r\n\r\n- Fix auth guard redirect bug\r\n\r\n## v5.0.0\r\n###### Nov 02, 2021\r\n\r\n- Migrate CRA to Next.js 12\r\n- Migrate code to MUI v5\r\n- Add Company Details pages\r\n- Add Job Create flow\r\n- Add Job Listing page\r\n- Add Logistics Dashboard page\r\n- Cleanup code\r\n- Remove react-modal-image dependency\r\n- Update Account pages\r\n- Update Blog Platform page designs\r\n- Update Calendar app layout\r\n- Update Chat app layout\r\n- Update Chat logic\r\n- Update Customer Details page\r\n- Update Customer List filters\r\n- Update Invoice List filters\r\n- Update Invoice List page layout\r\n- Update Kaban app\r\n- Update Landing page\r\n- Update Mail app layout\r\n- Update Order List filters\r\n- Update Order List page layout\r\n- Update Product List filters\r\n- Update Product List table\r\n- Update design system\r\n\r\n## v4.1.0\r\n###### May 24, 2021\r\n\r\n- Add Sketch and Figma dark versions\r\n- Fix Calendar App Date data type stored in Redux state warning\r\n- Fix Kanban App card move bug\r\n- Fix RTL bug\r\n- Fix nprogress display bug\r\n- Implement mocked api clients instead of mocked axios interceptors\r\n- Remove axios and axios mock adapter dependencies\r\n- Replace Hidden component with sx logic\r\n- Update MUI and other dependencies\r\n\r\n## v4.0.0\r\n###### Mar 17, 2021\r\n\r\n- Add `@emotion/react` and `@emotion/styled` dependencies for Material-UI v5.\r\n- Add `AWS Amplify` auth platform\r\n- Add `Google Tag Manager` to implement tags concept\r\n- Add support for React strict mode\r\n- Add `gray-matter` dependency\r\n- Add `react-i18next` dependency to implement multi-language\r\n- Add `stylis` and `stylis-plugin-rtl` dependencies for right-to-left support\r\n- Add `web-vitals` dependency\r\n- Add new components\r\n- Add new pages\r\n- Drop IE 11 support\r\n- Fix some TypeScript definitions\r\n- Leverage the `sx` prop where needed\r\n- Regroup pages\r\n- Remove `Google Analytics`\r\n- Remove `js-cookie` dependency\r\n- Remove `jsonwebtoken` dependency\r\n- Remove `jwt-decode` dependency\r\n- Remove `lodash` dependency\r\n- Remove `mdx` dependency\r\n- Remove `react-chartjs-2` dependency\r\n- Remove `uuid` dependency\r\n- Rename components for simpler folder structure\r\n- Replace `moment` with `date-fns` for date parsing\r\n- Replace `react-chartjs-2` with `react-apexcharts`\r\n- Replace `react-helmet` with `react-helmet-async` dependency\r\n- Replace `useStyles` with `experimentalStyled` strategy\r\n- Update `@fullcalendar` dependency\r\n- Upgrade `@material-ui/core` and `@material-ui/icons` dependencies from v4 to v5-alpha.\r\n- Upgrade `react-router` to v6\r\n- Update existing components to match Material-UI v5\r\n- Update theme to use Material-UI v5 theme format\r\n\r\n## v3.1.0\r\n###### Aug 1, 2020\r\n\r\n### JavaScript\r\n\r\n- JavaScript version is now in sync with the TypeScript version, both with the same features.\r\n### TypeScript\r\n\r\nNo changes.\r\n\r\n## v3.0.0\r\n###### July 26, 2020\r\n\r\nThe release introduces a new version of the product written in TypeScript.\r\n\r\n## JavaScript\r\n\r\nNo changes.\r\n\r\n### TypeScript\r\n\r\n- Implement Auth0 and FirebaseAuth\r\n- Fix server-side rendering issue with SettingsProvider\r\n- Improve components\r\n- Reimplement JWT Auth using Redux Context API\r\n- Reimplement Redux using Redux Toolkit\r\n- Remove a few components Social application to be able to add new ones in future updates\r\n- Update Calendar and Chat applications\r\n- Update dependencies\r\n- Update Login and Register views\r\n- Update mocked data to match the types\r\n- Update Projects application\r\n\r\n## v2.0.0\r\n###### Apr 10, 2020\r\n\r\n- Refactor components to accept multi-theme\r\n- Update typography\r\n- Update all views implementing new features\r\n- Update the mock adapter, now accepting post requests\r\n- Add new views\r\n- Implement AuthService and AuthGuard\r\n- Implement multiple themes\r\n- Implement app settings manager\r\n- Implement Redux in Chat, Kanban, Mail apps\r\n- Implement MDX for docs\r\n- Remove multiple CSS classes and replaced the styling with Box component\r\n- Add `react-modal-image` dependency to be able to open images as modals\r\n- Add `formik` dependency to create complex forms\r\n- Add `joy` dependency to validate forms\r\n- Add `notistack` dependency to control notifications\r\n- Add `immer` dependency to create drafts\r\n- Add `apexcharts` dependency to create extra charts\r\n\r\n## v1.3.0\r\n###### Sep 7, 2019\r\n\r\n#### New\r\n\r\n- Add Material-UI Container component to each view to replace custom styling\r\n- Add IE11 support, can be removed from `src/index.js` to reduce bundle size\r\n- Add component pages\r\n- Update code style to match with Airbnb style\r\n- Add right-to-left support\r\n- Add dependencies\r\n  - `eslint-config-airbnb`\r\n  - `eslint-config-prettier`\r\n  - `eslint-plugin-import`\r\n  - `eslint-plugin-jsx-a11y`\r\n  - `eslint-plugin-react-hooks`\r\n- Update depdendecy versions\r\n  - `@date-io/core` ^1.3.6 -&gt; ^1.3.11\r\n  - `@date-io/moment` ^1.3.6 -&gt; ^1.3.11\r\n  - `@fullcalendar/core` ^4.2.0 -&gt; ^4.3.1\r\n  - `@fullcalendar/daygrid` ^4.2.0 -&gt; ^4.3.0\r\n  - `@fullcalendar/interaction` ^4.2.0 -&gt; ^4.3.0\r\n  - `@fullcalendar/list` ^4.2.0 -&gt; ^4.3.0\r\n  - `@fullcalendar/react` ^4.2.0 -&gt; ^4.3.0\r\n  - `@fullcalendar/timegrid` ^4.2.0 -&gt; ^4.3.0\r\n  - `@fullcalendar/timeline` ^4.2.0 -&gt; ^4.3.0\r\n  - `@material-ui/core` ^4.2.0 -&gt; ^4.6.0\r\n  - `@material-ui/icons` ^4.2.1 -&gt; ^4.5.1\r\n  - `@material-ui/lab` ^4.0.0-alpha.19 -&gt; ^4.0.0-alpha.31\r\n  - `@material-ui/pickers` ^3.1.2 -&gt; ^3.2.7\r\n  - `@material-ui/styles` ^4.2.0 -&gt; ^4.6.0\r\n  - `chartjs` ^2.7.3 -&gt; ^2.9.2\r\n  - `draft-js` ^0.11.0 -&gt; ^0.11.2\r\n  - `history` ^4.7.2 -&gt; ^4.10.1\r\n  - `js-cookie` ^2.2.0 -&gt; ^2.2.1\r\n  - `node-sass` ^4.11.0 -&gt; ^4.13.0\r\n  - `prop-types` ^15.7.1 -&gt; ^15.7.2\r\n  - `react` ^16.8.6 -&gt; ^16.11.0\r\n  - `react-beautiful-dnd` ^11.0.4 -&gt; ^11.0.5\r\n  - `react-big-calendar` ^0.22.0 -&gt; ^0.22.1\r\n  - `react-chartjs-2` ^2.7.4 -&gt; ^2.8.0\r\n  - `react-dom` ^16.8.6 -&gt; ^16.11.0\r\n  - `react-dropzone` ^10.1.5 -&gt; ^10.1.10\r\n  - `react-markdown` ^4.0.8 -&gt; ^4.2.2\r\n  - `react-paginate` ^6.3.0 -&gt; ^6.3.2\r\n  - `react-redux` ^7.1.0 -&gt; ^7.1.3\r\n  - `react-router` ^5.0.1 -&gt; ^5.1.2\r\n  - `react-router-config` ^5.0.1 -&gt; ^5.1.1\r\n  - `react-router-dom` ^5.0.1 -&gt; ^5.1.2\r\n  - `react-scripts` ^3.0.1 -&gt; ^3.2.0\r\n  - `uuid` ^3.3.2 -&gt; ^3.3.3\r\n  - `eslint` ^5.16.0 -&gt; ^6.6.0\r\n  - `eslint-plugin-prettier` ^3.0.1 -&gt; ^3.1.1\r\n  - `eslint-plugin-react` ^7.12.4 -&gt; ^7.16.0\r\n  - `prettier` ^1.17.1 -&gt; ^1.19.1\r\n\r\n#### Fix\r\n\r\n- Fix a bug for Edge &amp; Safari where users couldn&#039;t scroll properly\r\n\r\n#### Breaking changes\r\n\r\n- As we mentioned, we updated code style so you&#039;ll note some changes\r\n- Update the layouts to fix scroll issues\r\n- Remove deep folder nesting to keep a clearer structure\r\n- Replace custom `useReact` hook with `useLocation`, `useHistory` and `useParams` from `react-router`\r\n- With `react-scripts@^3.2.0` we are now able to use `&#039;.&#039;` as `baseUrl` and we updated the imports to avoid confusion\r\n\r\n## v1.2.0\r\n###### Aug 7, 2019\r\n\r\n#### New\r\n\r\n- Replace the Routing System from `1.1.0` version with an easier solution to avoid complexity\r\n- Create 3 individual layouts for `Error`, `Auth` and `Dashboard` pages\r\n- Add `axios` and `axios-mock-adapter` modules to simulate server calls for fetch requests\r\n- Rename few components\r\n- Update `Calendar` page code\r\n- Update `Chat` page code\r\n- Update `Error` page code\r\n- Moved all lib mixins to `mixins` folder\r\n- Moved `helpers` files to `utils` folder\r\n- Remove `data.js` files\r\n- Remove unused helpers\r\n- Remove unused utils\r\n\r\n#### Fix\r\n\r\n- Fix navigation expand issue\r\n\r\n## v1.1.1\r\n###### Aug 1, 2019\r\n\r\n#### Fix\r\n\r\n- Temporary remove PerfectScrollBar to fix Navbar and content scroll issues\r\n\r\n## v1.1.0\r\n###### Jul 31, 2019\r\n\r\n#### New\r\n\r\n- Implement Code Splitting to lazy load views\r\n- Implement Layout System based on Route settings\r\n- Implement Routing System\r\n- Implement Route Authorization Guard based on authenticated user role and route settings\r\n- Update Presentation Page\r\n- Create Changelog Page\r\n- Create Development Documentation Pages\r\n- Add PrismJS library and created CodeBlock component\r\n- Add Redux library and configured some components using it as state manager\r\n- Add design Figma source file\r\n- Update dependencies\r\n\r\n#### Fix\r\n\r\n- Fix scroll bugs\r\n- The layouts were similary so we kept one Layout only that can be configured dynamically\r\n\r\n#### Breaking changes\r\n\r\n- Replace `underscore` with `lodash`\r\n- Change the Layout logic\r\n- Rename few components\r\n- Update folder structure, grouped all views in the same folder\r\n\r\n## v1.0.0\r\n###### Jul 20, 2019\r\n\r\nInitial release"
+        },
+        {
+          "key": "_per_product_admin_additional_fee",
+          "value": ""
+        },
+        {
+          "key": "_fixed_price_rules",
+          "value": "[]"
+        },
+        {
+          "key": "_last_editor_used_jetpack",
+          "value": "classic-editor"
+        },
+        {
+          "key": "wccaf_version_date",
+          "value": "2024-02-26"
+        },
+        {
+          "key": "_skip_category_tier_rules",
+          "value": "no"
+        },
+        {
+          "key": "chosen_product_cat",
+          "value": "[16]"
+        },
+        {
+          "key": "_tiered_pricing_product_has_no_rules",
+          "value": "no"
+        },
+        {
+          "key": "wccaf_preview_url",
+          "value": "https://material-kit-pro-react.devias.io"
+        },
+        {
+          "key": "_wpcom_is_markdown",
+          "value": "1"
+        },
+        {
+          "key": "wccaf_template_frameworks",
+          "value": "react-18,next-js,next-js-app,vite"
+        },
+        {
+          "key": "wccaf_template_ui_frameworks",
+          "value": "material-ui"
+        },
+        {
+          "key": "wccaf_template_use_cases",
+          "value": "dashboard,blog,admin,business,e-commerce-admin"
+        },
+        {
+          "key": "wccaf_template_type",
+          "value": "templates"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Admin &amp; Dashboard",
+          "slug": "admin-dashboard"
+        }
+      ],
+      "upsells": [
+        {
+          "slug": "devias-kit",
+          "name": "Devias Kit - React Admin Dashboard",
+          "images": [
+            {
+              "src": "https://store-wp.mui.com/wp-content/uploads/2021/11/Thumbnail.png"
+            }
+          ],
+          "price": "0"
+        }
+      ],
+      "date_created": "2019-07-20T10:58:27",
+      "date_modified": "2024-04-03T13:32:17",
+      "images": [
+        {
+          "src": "https://store-wp.mui.com/wp-content/uploads/2024/02/Thumbnail-1.png"
+        }
+      ],
+      "price": "69",
+      "catalog_visibility": "visible",
+      "variations": [
+        {
+          "wcId": 160,
+          "menu_order": 2,
+          "status": "publish",
+          "price": "129",
+          "attributes": [
+            {
+              "option": "Standard Plus"
+            }
+          ]
+        },
+        {
+          "wcId": 128,
+          "menu_order": 1,
+          "status": "publish",
+          "price": "69",
+          "attributes": [
+            {
+              "option": "Standard License"
+            }
+          ]
+        },
+        {
+          "wcId": 127,
+          "menu_order": 3,
+          "status": "publish",
+          "price": "599",
+          "attributes": [
+            {
+              "option": "Extended License"
+            }
+          ]
+        }
+      ],
+      "WCStores": {
+        "store_name": "Devias",
+        "email": "contact@devias.io",
+        "gravatar": "https://store-wp.mui.com/wp-content/uploads/2019/11/devias-logo-1.png",
+        "slug": "devias"
+      },
+      "attributes": [
+        {
+          "name": "License Type",
+          "options": ["Standard License", "Standard Plus", "Extended License"]
+        },
+        {
+          "name": "bf_discount",
+          "options": ["35"]
+        },
+        {
+          "name": "bf_code",
+          "options": ["devias-bf"]
+        }
+      ]
+    }
+  },
+  "pageContext": {
+    "id": "0f774caf-f032-5c3e-a901-04fcce7adb05"
+  }
+}
